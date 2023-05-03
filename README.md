@@ -1,6 +1,6 @@
 # WeActStudioMiniCoreBoardDocs
 Docs for the WeAct Studio Mini Core Board
-![PinOut](https://user-images.githubusercontent.com/5848558/235404145-187d0c46-91f4-4404-b348-2d37ca233f68.jpg)
+![PinOut](https://user-images.githubusercontent.com/5848558/235851486-e3bf0fdb-96ca-4ba7-9779-5be546971682.jpeg)
 
 [BoardToChipSchematics.pdf](https://github.com/FatCatLikesBeer/WeActStudioMiniCoreBoardDocs/files/11363357/BoardToChipSchematics.pdf)
 
